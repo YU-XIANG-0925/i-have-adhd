@@ -28,7 +28,7 @@
 复制粘贴到你的 CLI 对话框中：
 
 ```text
-Install the i-have-adhd skill/plugin from https://github.com/ayghri/i-have-adhd, refer to the repo's AGENTS.md for instructions.
+Install the i-have-adhd skill/plugin from https://github.com/YU-XIANG-0925/i-have-adhd, refer to the repo's AGENTS.md for instructions.
 ```
 
 或 🔗 [查看安装说明](../install/INSTALL.zh-CN.md)
